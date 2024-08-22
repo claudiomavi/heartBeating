@@ -25,7 +25,7 @@ body {
 	animation: heart-beating 0.6s infinite;
 }
 
-.fa-heart {
+.fa-heart:focus {
 	outline: none;
 }
 
